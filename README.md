@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @maha4peace
-- 👀 I’m interested in expanding my skills as a full stack software engineer focusing on web devleopment 
-- 🌱 I’m currently learning HTML, CSS, Javascript, React, Node.Js, and MongoDB. 
-- 💞️ I’m looking to collaborate on open-source projects, pair program, and obtain a full stack software engineer or data analyis position. 
-- 📫 You can reach me at https://www.linkedin.com/in/maha-ahmed4peace/ , https://twitter.com/maha_codes
+- 👋 Hi, I’m Maha Ahmed. I'm a full stack software engineer with a focus on web development. I am passionate about using front end and back end technology to work on projects that improve equity and are community focused. Open to opportunitiies. 
+- 🌱 I’m currently learning React while building out my portfolio site. 
 
 <!---
 maha4peace/maha4peace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

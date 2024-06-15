@@ -1,4 +1,4 @@
-👋 Hi, I’m Maha. I'm a full stack web developer. 🌱  Design | Writing | Community 🌱 Currently building "Citizenry", a web application that aims to simplify the voting process. 
+👋 Hi, I’m Maha. I'm a full stack web developer. 🌱  Design | Education | Community 🌱 Currently building "Citizenry", a web application that aims to simplify the voting process. 
  
 
 <!---

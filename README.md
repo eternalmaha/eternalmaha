@@ -1,6 +1,6 @@
-👋 Hi, I’m Maha. I'm a full stack web developer. 🌱  Design | Education | Community 🌱 Currently building "Citizenry", a web application that aims to simplify the voting process. 
- 
+👋 Hi, I’m Maha Ahmed. I'm a full stack software developer. 🌱  I recently completed The COLLAB LAB (the last cohort - for now), where I had the joy and privlege to work with a fantastic team of developers to build GrocerEase, a smart shopping list application that makes shopping easier by tracking users shopping history in order to calculate their next purchase dates. The COLLAB LAB was a unique, invaluable experience where I learned the full scale of collaboration on a full stack application with a software development team!  
 
+As a self proscribed "internet kid", I enjoy the brain tease of figuring out the logic of building programs. As I mature, I come to view sotware development as largely a "thinking" field. The hunger to solve the task at hand is necessary and part of the fun challenge! I strive to continue learning and experimenting with new problems to flex my thinking muscles! 
 <!---
 maha4peace/maha4peace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

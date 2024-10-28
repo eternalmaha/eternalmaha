@@ -5,10 +5,12 @@ As a self proscribed "internet kid", I enjoy the brain tease of figuring out the
 <h2>Tech Stack</h2>
 
 <div> 
+  <img alt="React" align="left" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="JavaScript" align="left" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="TypeScript" align="left" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="React" align="left" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt = "Firebase icon" align="left" width="35px" style="padding-right:5px;" src="firebase.svg" /> 
   <img alt="Node.js" align="left" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="Bootstrap" align="left" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+  <img alt="Bootstrap icon" align="left" width="35px" style="padding-right:5px;" src="bootstrap-svgrepo-com.svg" />
+ 
   
 </div>
